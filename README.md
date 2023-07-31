@@ -6,5 +6,8 @@ All the dataset used for the figures are listed in the data folder.
 "D_V_35patients.xlsx" includes the information of the diameters and volumes for the 35 patients who have the pathological images.
 
 "D_V_all.csv" is the file recording the information of the diameters and volumes for all patients included.
+
+"survival_record.xlsx" is the overall survival time recorded for the 47 advanced lung patients.
+
 # Code
 The results in the manuscript can be reproduced through analysisbypython.ipynb and analysisbyR.R. 
